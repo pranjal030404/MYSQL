@@ -6,4 +6,6 @@ Basically in this I provide all the codes which are used for simple changes and 
 
 Hope it contribute something in your profession or carrer...
 
+For downloading mysql in your own device you can go to this link so this can continue from here and work on mysql workbench which will be directly connected to the server so that we can use it in our system "https://dev.mysql.com/downloads/installer"
+
 Thank you
